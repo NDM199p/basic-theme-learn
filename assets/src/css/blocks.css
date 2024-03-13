@@ -1,0 +1,10 @@
+.is-style-layout-border-blue-fill {
+  background: none;
+  border: 1px solid blue;
+}
+.editor-styles-wrapper .wp-block-button,
+.editor-styles-wrapper .wp-block-button__link,
+.is-style-layout-border-blue-fill .wp-block-button__link {
+  background: none;
+  color: black;
+}
